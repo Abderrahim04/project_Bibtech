@@ -26,7 +26,7 @@ if(isset($_POST['submit'])) {
 <html>
 <head>
     <title>Connexion</title>
-    <link rel="stylesheet" href="logine.css">
+    <link rel="stylesheet" href="style/logine.css">
 </head>
 <body>
     <div class="login-container">

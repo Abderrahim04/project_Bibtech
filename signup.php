@@ -25,7 +25,7 @@ if(isset($_POST['submit'])) {
 <html>
 <head>
     <title>Inscription</title>
-    <link rel="stylesheet" href="signupe.css">
+    <link rel="stylesheet" href="style/signupe.css">
 </head>
 <body>
     <div class="signup-container">
